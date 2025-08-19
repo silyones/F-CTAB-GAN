@@ -153,7 +153,7 @@ python train_fctabgan.py --dataset creditcard --epochs 100
 
 * **CTGAN:** Xu et al. *"Modeling Tabular Data using Conditional GAN"* (2019)
 * **Opacus:** Facebook AI’s library for differential privacy
-* Kaggle for providing the **Credit Card Fraud dataset**
+* **Kaggle:** [Credit Card Fraud Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)  
 
 ---
 
